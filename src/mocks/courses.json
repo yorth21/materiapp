@@ -1,0 +1,345 @@
+[
+  {
+    "codigo": "",
+    "asignatura": "Programación I",
+    "creditos": 4,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Introducción A La Ingeniería De Sistemas",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Teoría General De Sistemas",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Matemáticas Generales",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lógica Matemática",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Programación II",
+    "creditos": 4,
+    "semestre": 2,
+    "requisito": "Programación I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Metodología De La Investigación",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Programación I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Calculo Diferencial",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Matemáticas Generales"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Algebra Lineal",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Lógica Matemática"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ingeniería Económica",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Lógica Matemática"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Programación III",
+    "creditos": 4,
+    "semestre": 3,
+    "requisito": "Programación II"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ingeniería De Software I",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Programación II"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Calculo Integral",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Calculo Diferencial"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Física I",
+    "creditos": 4,
+    "semestre": 3,
+    "requisito": "Calculo Diferencial"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Probabilidad Y Estadística",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Algebra Lineal"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Estructuras De Datos",
+    "creditos": 4,
+    "semestre": 4,
+    "requisito": "Programación III"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ingeniería De Software II",
+    "creditos": 3,
+    "semestre": 4,
+    "requisito": "Ingeniería De Software I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Sistemas De Base De Datos",
+    "creditos": 4,
+    "semestre": 4,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Cálculo De Varias Variables",
+    "creditos": 3,
+    "semestre": 4,
+    "requisito": "Calculo Integral"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Física II",
+    "creditos": 4,
+    "semestre": 4,
+    "requisito": "Física I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Administración De Sistemas De Base De Datos",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Sistemas De Base De Datos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ingeniería De Software III",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Ingeniería De Software II"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Investigación De Operaciones",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Algebra Lineal"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ecuaciones Diferenciales",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Cálculo De Varias Variables"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Administración De Empresas",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Ingeniería Económica"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Métodos Numéricos",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": "Calculo Diferencial"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Auditoria Y Seguridad Informática",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Computación Gráfica",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Circuitos Electrónicos",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": "Física II"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Sistemas Operativos",
+    "creditos": 4,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Sistemas Inteligentes",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lenguajes Formales Y Autómatas",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Modelamiento Y Simulación",
+    "creditos": 4,
+    "semestre": 7,
+    "requisito": "Probabilidad Y Estadística"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Redes De Computadores",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": "Sistemas Operativos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Arquitectura De Computadores",
+    "creditos": 4,
+    "semestre": 7,
+    "requisito": "Circuitos Electrónicos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Sistemas Basados En Conocimiento",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": "Sistemas Inteligentes"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Sistemas Y Servicios Telemáticos",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": "Redes De Computadores"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formulación Y Evaluación De Proyectos",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": "Administración De Empresas"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Modelos De Computación",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": "Sistemas Y Servicios Telemáticos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Emprendimiento",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Proyecto De Investigación I",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ingeniería Legal",
+    "creditos": 3,
+    "semestre": 10,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Proyecto De Investigación II",
+    "creditos": 3,
+    "semestre": 10,
+    "requisito": "Proyecto De Investigación I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 10,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 10,
+    "requisito": ""
+  }
+]
