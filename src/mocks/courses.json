@@ -341,5 +341,47 @@
     "creditos": 3,
     "semestre": 10,
     "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formación en humanismo",
+    "creditos": 2,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formación en cultura artística y fisica",
+    "creditos": 2,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formación ciudadana",
+    "creditos": 2,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formación en problemáticas de contexto",
+    "creditos": 2,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lectura y producción de textos I",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lectura y producción de textos 2",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": "Lectura y producción de textos I"
   }
 ]
