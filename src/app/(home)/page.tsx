@@ -40,7 +40,9 @@ export default function CourseManager() {
         <h1 className="text-4xl font-bold mb-2">Materiapp</h1>
         <p className="text-muted-foreground">
           Selecciona las materias que ya has aprobado
+          
         </p>
+        <p className="italic text-muted-foreground text-sm">(Solo para ingeniería de sistemas)</p>
       </header>
 
       <Card className="mb-8">
@@ -86,7 +88,7 @@ export default function CourseManager() {
                 <CardContent className="p-4">
                   <div className="grid gap-4">
                     {semester.courses.map((course, index) => (
-                      <div key={index} className={`flex items-center justify-between p-2 gap-4 rounded-md hover:bg-accent transition-colors ${coursesSelected.includes(course) ? 'bg-accent' : ''}`}
+                      <div key={index} className={`flex items-center justify-between p-2 gap-4 cursor-pointer rounded-md hover:bg-accent transition-colors ${coursesSelected.includes(course) ? 'bg-accent' : ''}`}
                         onClick={() => selectCurse(course)}
                       >
                         <div className="flex items-center gap-3">
