@@ -112,6 +112,12 @@ export default function CourseManager() {
           </AccordionItem>
         ))}
       </Accordion>
+
+      <footer className="mt-8 text-center text-muted-foreground">
+        <p className="text-sm">
+          Made in China
+        </p>
+      </footer>
     </div>
   )
 }
