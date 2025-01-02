@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion'
-import { Book, GraduationCap, Calendar, Award } from 'lucide-react'
+import { Book, CheckCheck, GraduationCap, Calendar, Award } from 'lucide-react'
 import { ICourse } from '@/types/course'
 import { ISemester } from '@/types/semester'
 import { getSemesters } from '../services/semester'
@@ -94,7 +94,7 @@ export default function CourseManager() {
                         <div className="flex items-center gap-3">
                           <div className="h-6 w-6 flex items-center justify-center">
                             {coursesSelected.includes(course) 
-                              ? <GraduationCap className="h-4 w-4 text-primary" />
+                              ? <CheckCheck className="h-4 w-4 text-primary" />
                               : <Book className="h-4 w-4 text-primary" />
                             }
                           </div>
