@@ -115,7 +115,7 @@ export default function CourseManager() {
 
       <footer className="mt-8 text-center text-muted-foreground">
         <p className="text-sm">
-          Made in China
+          Created by Yorth21
         </p>
       </footer>
     </div>
